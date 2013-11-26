@@ -18,7 +18,7 @@
 				<?php if ( display_header_text() ) : // If user chooses to display header text. ?>
 
 					<hgroup id="branding">
-<?php echo get_avatar( 'keepingcozy@gmail.com', 160 ); ?>
+<?php echo get_avatar( 'jon@jonsimpson.ca', 160 ); ?>
 						<?php hybrid_site_title(); ?>
 						<?php hybrid_site_description(); ?>
 <?php hybrid_get_menu( 'social' ); // Loads the menu/social.php template. ?>
